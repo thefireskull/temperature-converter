@@ -6,4 +6,6 @@
 ## Usage
  Edit the code in main.js and set the kelvin variable to whatever you want.
   
-  `example: const kelvin = 1500;`
+  `example: const kelvin = 1000;`
+
+ And run it with `node main.js`
