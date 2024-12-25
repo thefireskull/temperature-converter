@@ -4,7 +4,8 @@
   "description": "A simple temperature converter made using Javascript and Node.JS.",
   "main": "main.js",
   "scripts": {
-    "test": "start"
+    "start": "node app.js",
+    "test": "node --test"
   },
   "repository": {
     "type": "git",
